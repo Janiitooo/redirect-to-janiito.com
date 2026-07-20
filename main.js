@@ -203,7 +203,7 @@ const projects = [
             pt: "NÃO O APAGUE",
             janiito: "Janiito"
         },
-        url: "https://janiito-studio.itch.io/no-lo-borres",
+        url: "https://no-lo-borres.vercel.app",
         descriptions: {
             es: "Una intensa experiencia de terror indie de 10-15 minutos. Explora un entorno inquietante donde tus decisiones y la intuición son vitales para descubrir el misterio.",
             ca: "Una intensa experiència de terror indie de 10-15 minuts. Explora un entorn inquietant on les teves decisions i la intuïció són vitals per descobrir el misteri.",
@@ -216,13 +216,13 @@ const projects = [
         },
         image: "NO LO BORRES - LOGO.png",
         tags: {
-            es: ["Terror", "Individual", "PC"],
-            ca: ["Terror", "Individual", "PC"],
-            en: ["Horror", "Single-player", "PC"],
-            fr: ["Horreur", "Solo", "PC"],
-            de: ["Horror", "Einzelspieler", "PC"],
-            it: ["Horror", "Solo", "PC"],
-            pt: ["Terror", "Solo", "PC"],
+            es: ["Terror", "Individual", "Web"],
+            ca: ["Terror", "Individual", "Web"],
+            en: ["Horror", "Single-player", "Web"],
+            fr: ["Horreur", "Solo", "Web"],
+            de: ["Horror", "Einzelspieler", "Web"],
+            it: ["Horror", "Solo", "Web"],
+            pt: ["Terror", "Solo", "Web"],
             janiito: ["Janiito", "Janiito"]
         }
     }
